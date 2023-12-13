@@ -1,0 +1,19 @@
+{
+    "name": "user/hexlet-php",
+    "description": "composer practise",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "User\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TolIkUshkevich",
+            "email": "104827125+TolIkUshkevich@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
